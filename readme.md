@@ -1,4 +1,4 @@
-# Analyze data in pandas.
+# Analyze data in pandas
 
 In this project, data analysis with python and pandas is applied to analyze data from athletes from the last 120 years of olympics. Some of the analyzes performed used:
 
@@ -11,13 +11,9 @@ The database for this project is available at: [https://www.kaggle.com/heesoo37/
 
 ## Technologies:
 
-**Python3**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python3" style="width:20px;"/> **Python3**
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
-
-**Pandas** 
-
-![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="python3" style="width:20px;"/> **Pandas** 
 
 ## **Learning Outcome Addressed**
 Analyze data in pandas.
