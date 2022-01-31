@@ -13,16 +13,17 @@ The database for this project is available at: [https://www.kaggle.com/heesoo37/
 
 **Python3**
 
-![Untitled](Analyze%20data%20in%20pandas%20a876df155e804d019734cdf4e5694822/Untitled.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 
 **Pandas** 
 
-![Untitled](Analyze%20data%20in%20pandas%20a876df155e804d019734cdf4e5694822/Untitled%201.png)
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png)
 
 ## **Learning Outcome Addressed**
-
 Analyze data in pandas.
 
+## Overview:
+![overview](./img/overview.png)
 ### References
 
 MIT - Professional Certificated in Data Engineer. 
