@@ -7,7 +7,7 @@ In this project, data analysis with python and pandas is applied to analyze data
 - `group by`
 - `max`, `min`, `mean`
 
-The database for this project is available at: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
+The database for this project is available at: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results =20x20)
 
 ## Technologies:
 
